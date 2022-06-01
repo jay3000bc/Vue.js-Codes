@@ -1,7 +1,18 @@
-# Vue.js-Codes
-My codes on Vue.js
-***Shopping List***
-Shopping List is your daily shopping list app. You list all the items that you need to buy from the market. As you buy each item, they are checked.
+# vue-weather
 
-***Chariot***
-This application demostrates a chariot being pulled by 4 horses. If the reduce the number of horses, one will get added and vice-versa.
+> Weather App
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
